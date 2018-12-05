@@ -1,18 +1,20 @@
 // array of Monitor-specific API keys or Main API key to list all monitors
 var __apiKeys = [
-	'm776858319-7c829d2c3e250f85776f588e', //Community
-	'm776858325-1ddf7c7e98ce56609325db3b', //Document
-	'm776858327-19b31e671f6b217b8ded96c6', //Me
-	'm776858407-a704cd548fb5c15db5b625f9', //Update A
-	'm778126978-24e6f1ce275c2518bad1e925', //Update B
-	'm777157148-a67f71b8a807c54b8ce92c9d', //Update deliver A
-	'm777157137-ce781489d1af15253ca3f0c1', //Update deliver B
-	'm776858320-7b44f9ac136f69ac3e356e8e', //Auth A
-	'm776858321-486827042ed7a7f7b8952a05', //Auth B
-	'm778734196-a51947f061c5db10cee048f7', //Auth C
-	'm776858323-0bdafb9e9a71e3305c27c1af', //Auth D
-	'm777190463-ac0ab733e1b29c92b7de0354', //Auth E
+	'm781564918-9921423871a83f5490f5cc8c', //blog
+	'm781564916-7faaae85ad735b3f13278edd', //tensuu
+	'm781564919-25b0b93dbda0fb2e2324fc72', //limi
+	'm781564928-240a63c1ecaf637a5dbe5822',//robot
+	'm781565595-9e794cddb584630daf12d8ae',//game
+	'm781565593-0cd3973dfb593cba55707cca',//stock
+	'm781565629-368d3c9acc3877ede7e53ff2',//app
+	'm781565634-cc63c456ca402fe8372fa416',//chongqing
+	'm781565660-7e18053899504813d13c1f3d',//ss
+	'm781565858-17e02a8a091a8cd02f3d0474',//up a
+	'm781565855-a76d8043fdccb58e45a2c01b',//up b
+	'm781565889-ac54baedcaa28b74f4199e30',//db s
+	'm781565898-563a706c6b64e0b8965f746c'//db n
+
 ];
 
 // refresh interval (in seconds)
-var __refresh = 180;
+var __refresh = 360;
